@@ -12,3 +12,11 @@ visualstudio/win.VC.VC.opendb
 visualstudio/win.VC.db
 visualstudio/win/Debug/
 visualstudio/win/Release/
+
+.DS_Store
+.spec
+bazel-World
+bazel-bin
+bazel-genfiles
+bazel-out
+bazel-testlogs
